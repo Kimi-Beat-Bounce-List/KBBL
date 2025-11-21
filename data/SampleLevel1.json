@@ -1,15 +1,14 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 60,
+    "name": "694971",
+    "author": "tccgranmd",
+    "verifier": "tccgranmd",
+    "verification": "https://www.youtube.com/watch?v=mwxTOgA0HDo&t=2s",
+    "percentToQualify": 51,
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "YumiThePoyo",
+            "link": "https://youtu.be/v5AmMyK7sv8?si=9wfYXCvG0KPbg1_c",
             "percent": 100,
         }
     ]
